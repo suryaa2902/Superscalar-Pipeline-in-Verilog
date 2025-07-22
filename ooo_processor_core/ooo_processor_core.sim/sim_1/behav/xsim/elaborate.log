@@ -1,0 +1,113 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Users/surya/Desktop/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 3c97fe275e3346c9a2e6261313f5140f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_ooo_processor_behav xil_defaultlib.tb_ooo_processor xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_pc1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:680]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_pc2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:681]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_instruction1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:682]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_instruction2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:683]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'rename_arch_rd_1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:690]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'rename_arch_rd_2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:691]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_immediate1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:692]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_immediate2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:693]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_inst_type1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:694]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_inst_type2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:695]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'rename_exec_unit1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:696]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'rename_exec_unit2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:697]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'rename_alu_op1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:698]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'rename_alu_op2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:699]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_branch_op1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:700]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_branch_op2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:701]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_mem_op1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:702]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_mem_op2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:703]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_pc1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:765]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_pc2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:766]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_instruction1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:767]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_instruction2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:768]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'rename_arch_rd_1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:775]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'rename_arch_rd_2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:776]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_immediate1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:777]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'rename_immediate2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:778]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_inst_type1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:779]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_inst_type2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:780]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'rename_exec_unit1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:781]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'rename_exec_unit2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:782]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'rename_alu_op1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:783]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'rename_alu_op2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:784]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_branch_op1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:785]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_branch_op2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:786]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_mem_op1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:787]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'rename_mem_op2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:788]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'alloc_pc1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:1016]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'alloc_pc2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:1017]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'alloc_arch_reg1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:1018]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'alloc_arch_reg2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:1019]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'alloc_instruction1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:1022]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'alloc_instruction2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:1023]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'alloc_exec_unit1' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:1024]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'alloc_exec_unit2' [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:1025]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v" Line 12. Module ooo_processor_top doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/pipeline_controller.v" Line 17. Module hazard_detection doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/fetch_unit.v" Line 17. Module instruction_fetch doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/fetch_unit.v" Line 252. Module branch_predictor doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/fetch_unit.v" Line 396. Module fetch_queue doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/decode_unit.v" Line 305. Module decode_stage doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/decode_unit.v" Line 17. Module instruction_decoder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/decode_unit.v" Line 17. Module instruction_decoder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/register_file.v" Line 12. Module register_file doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/register_file.v" Line 195. Module free_list_manager doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/rename_unit.v" Line 17. Module register_alias_table doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/rename_unit.v" Line 187. Module rename_stage doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reservation_station.v" Line 479. Module instruction_scheduler doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reservation_station.v" Line 17. Module rs_controller doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/execution_units.v" Line 17. Module alu_unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/execution_units.v" Line 192. Module branch_unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/execution_units.v" Line 377. Module load_store_unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reorder_buffer.v" Line 17. Module rob_controller doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reorder_buffer.v" Line 341. Module commit_stage doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v" Line 12. Module ooo_processor_top doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/pipeline_controller.v" Line 17. Module hazard_detection doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/fetch_unit.v" Line 17. Module instruction_fetch doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/fetch_unit.v" Line 252. Module branch_predictor doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/fetch_unit.v" Line 396. Module fetch_queue doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/decode_unit.v" Line 305. Module decode_stage doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/decode_unit.v" Line 17. Module instruction_decoder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/decode_unit.v" Line 17. Module instruction_decoder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/register_file.v" Line 12. Module register_file doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/register_file.v" Line 195. Module free_list_manager doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/rename_unit.v" Line 17. Module register_alias_table doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/rename_unit.v" Line 187. Module rename_stage doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reservation_station.v" Line 479. Module instruction_scheduler doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reservation_station.v" Line 17. Module rs_controller doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/execution_units.v" Line 17. Module alu_unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/execution_units.v" Line 192. Module branch_unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/execution_units.v" Line 377. Module load_store_unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reorder_buffer.v" Line 17. Module rob_controller doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reorder_buffer.v" Line 341. Module commit_stage doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.hazard_detection
+Compiling module xil_defaultlib.instruction_fetch
+Compiling module xil_defaultlib.branch_predictor
+Compiling module xil_defaultlib.fetch_queue
+Compiling module xil_defaultlib.instruction_decoder
+Compiling module xil_defaultlib.decode_stage
+Compiling module xil_defaultlib.register_file
+Compiling module xil_defaultlib.free_list_manager
+Compiling module xil_defaultlib.register_alias_table
+Compiling module xil_defaultlib.rename_stage
+Compiling module xil_defaultlib.rs_controller
+Compiling module xil_defaultlib.instruction_scheduler
+Compiling module xil_defaultlib.alu_unit
+Compiling module xil_defaultlib.branch_unit
+Compiling module xil_defaultlib.load_store_unit
+Compiling module xil_defaultlib.rob_controller
+Compiling module xil_defaultlib.commit_stage
+Compiling module xil_defaultlib.ooo_processor_top
+Compiling module xil_defaultlib.tb_ooo_processor
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_ooo_processor_behav

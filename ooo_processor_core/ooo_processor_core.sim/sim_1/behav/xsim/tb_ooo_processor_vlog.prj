@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/packages/ooo_processor_defines.vh" -i "../../../../../../../../../AppData/Roaming/Xilinx/Vivado/rtl/packages" --include "../../../../rtl/packages" \
+"../../../../rtl/core/decode_unit.v" \
+"../../../../rtl/core/execution_units.v" \
+"../../../../rtl/core/fetch_unit.v" \
+"../../../../rtl/ooo_processor_top.v" \
+"../../../../rtl/core/pipeline_controller.v" \
+"../../../../rtl/core/register_file.v" \
+"../../../../rtl/core/rename_unit.v" \
+"../../../../rtl/core/reorder_buffer.v" \
+"../../../../rtl/core/reservation_station.v" \
+"../../../../testbench/tb_ooo_processor.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

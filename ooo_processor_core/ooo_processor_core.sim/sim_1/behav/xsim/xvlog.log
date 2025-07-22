@@ -1,0 +1,52 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/packages/ooo_processor_defines.vh" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/decode_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_decoder
+INFO: [VRFC 10-311] analyzing module decode_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/execution_units.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_unit
+INFO: [VRFC 10-311] analyzing module branch_unit
+INFO: [VRFC 10-311] analyzing module load_store_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/fetch_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_fetch
+INFO: [VRFC 10-311] analyzing module branch_predictor
+INFO: [VRFC 10-311] analyzing module fetch_queue
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ooo_processor_top
+INFO: [VRFC 10-2458] undeclared symbol rename_pc1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:680]
+INFO: [VRFC 10-2458] undeclared symbol rename_pc2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:681]
+INFO: [VRFC 10-2458] undeclared symbol rename_instruction1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:682]
+INFO: [VRFC 10-2458] undeclared symbol rename_instruction2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:683]
+INFO: [VRFC 10-2458] undeclared symbol rename_arch_rd_1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:690]
+INFO: [VRFC 10-2458] undeclared symbol rename_arch_rd_2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:691]
+INFO: [VRFC 10-2458] undeclared symbol rename_immediate1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:692]
+INFO: [VRFC 10-2458] undeclared symbol rename_immediate2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:693]
+INFO: [VRFC 10-2458] undeclared symbol rename_inst_type1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:694]
+INFO: [VRFC 10-2458] undeclared symbol rename_inst_type2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:695]
+INFO: [VRFC 10-2458] undeclared symbol rename_exec_unit1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:696]
+INFO: [VRFC 10-2458] undeclared symbol rename_exec_unit2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:697]
+INFO: [VRFC 10-2458] undeclared symbol rename_alu_op1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:698]
+INFO: [VRFC 10-2458] undeclared symbol rename_alu_op2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:699]
+INFO: [VRFC 10-2458] undeclared symbol rename_branch_op1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:700]
+INFO: [VRFC 10-2458] undeclared symbol rename_branch_op2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:701]
+INFO: [VRFC 10-2458] undeclared symbol rename_mem_op1, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:702]
+INFO: [VRFC 10-2458] undeclared symbol rename_mem_op2, assumed default net type wire [C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/ooo_processor_top.v:703]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/pipeline_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hazard_detection
+INFO: [VRFC 10-311] analyzing module pipeline_flush
+INFO: [VRFC 10-311] analyzing module stall_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/register_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-311] analyzing module free_list_manager
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/rename_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_alias_table
+INFO: [VRFC 10-311] analyzing module rename_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reorder_buffer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rob_controller
+INFO: [VRFC 10-311] analyzing module commit_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/rtl/core/reservation_station.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_controller
+INFO: [VRFC 10-311] analyzing module instruction_scheduler
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/testbench/tb_ooo_processor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_ooo_processor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/Desktop/Self/GaTech/AAA/ooo_processor_core/ooo_processor_core.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
